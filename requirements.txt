@@ -1,0 +1,23 @@
+# Core Agent Framework
+langgraph>=0.0.10
+langchain>=0.1.0
+pypdf>=3.0.0
+python-dotenv>=1.0.0
+
+# LLM Providers
+openai>=1.0.0
+google-generativeai>=0.3.0
+# DeepSeek uses the OpenAI SDK, no separate package needed.
+
+# Testing
+pytest>=7.0.0
+pytest-mock>=3.0.0
+
+# Utilities
+numpy>=1.20.0
+pandas>=2.0.0
+# tabulate # Optional, for pretty printing if needed
+
+# Graph Visualization (Optional)
+# graphviz # requires system install
+# pyppeteer # for mermaid png support
