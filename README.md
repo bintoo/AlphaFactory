@@ -1,17 +1,13 @@
+<div align="center">
+  <img src="assets/banner.png" alt="AlphaFactory Banner" width="100%">
+  
+  <h3>Turns Academic Papers into Trading Algorithms.</h3>
 
-    ___    __      __            ______            __                  
-   /   |  / /___  / /_  ____ _  / ____/___ ______/ /_____  _______  __
-  / /| | / / __ \/ __ \/ __ `/ / /_  / __ `/ ___/ __/ __ \/ ___/ / / /
- / ___ |/ / /_/ / / / / /_/ / / __/ / /_/ / /__/ /_/ /_/ / /  / /_/ / 
-/_/  |_/_/ .___/_/ /_/\__,_/ /_/    \__,_/\___/\__/\____/_/   \__, /  
-        /_/                                                  /____/   
-
-> **Turns Academic Papers into Trading Algorithms.**
-
-[![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
-[![LangGraph](https://img.shields.io/badge/LangGraph-Orchestration-orange.svg)](https://github.com/langchain-ai/langgraph)
-[![QuantConnect](https://img.shields.io/badge/QuantConnect-LEAN-red.svg)](https://www.quantconnect.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
+  [![LangGraph](https://img.shields.io/badge/LangGraph-Orchestration-orange.svg)](https://github.com/langchain-ai/langgraph)
+  [![QuantConnect](https://img.shields.io/badge/QuantConnect-LEAN-red.svg)](https://www.quantconnect.com/)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+</div>
 
 ---
 
